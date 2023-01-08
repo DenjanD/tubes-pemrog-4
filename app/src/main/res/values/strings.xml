@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Daffa\'s JobDesk --bigTask</string>
     <string name="lecturer_name">Lecturer Name</string>
     <string name="lecturer_description">Lecturer Description</string>
     <string name="user_name">User Name</string>
@@ -9,4 +8,10 @@
     <string name="_266_225_225">+266 225 225</string>
     <string name="back">Back</string>
     <string name="lecturers_list">Lecturers List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">TubesPemrog</string>
+
 </resources>
