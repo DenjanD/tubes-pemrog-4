@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="app_bar_height" tools:ignore="MissingDefaultResource">180dp</dimen>
+    <dimen name="fab_margin" tools:ignore="MissingDefaultResource">16dp</dimen>
+    <dimen name="text_margin" tools:ignore="MissingDefaultResource">16dp</dimen>
+    <dimen name="headerTextSize" tools:ignore="MissingDefaultResource">28sp</dimen>
+</resources>
