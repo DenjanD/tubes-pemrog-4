@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="button_not_register"><font color='black'>Tidak memiliki akun?</font> <font color='red'>Daftar Sekarang</font></string>
+    <string name="after_register"><font color='black'>Sudah memiliki akun?</font> <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+
+    <string-array name="role">
+        <item>Pilih Role</item>
+        <item> Dosen</item>
+        <item> Mahasiswa</item>
+    </string-array>
+</resources>
