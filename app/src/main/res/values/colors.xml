@@ -7,22 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    
-    <color name="color__primary">#FBB034</color>
-    <color name="color__variant">#F6BE61</color>
-
-
+    <color name="colorPrimary">#87D1A2</color>
+    <color name="colorPrimaryDark">#6BB98B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#dfdfdf</color>
     <color name="yellow">#FBB034</color>
-    <color name="colorPrimary">#00804b</color>
-    <color name="colorPrimaryDark">#003366</color>
-    <color name="colorAccent">#DE3163</color>
-
-    <!--colors for profile-->
-    <color name="profilePrimaryDark">#FF3B30</color>
-    <color name="profileAccentColor">#F7F7F7</color>
-    <color name="whiteTextColor">#fff</color>
-    <color name="profileBackground">#fff</color>
-    <color name="blackTextColor">#000</color>
-    <color name="profileEditTextColor">#707070</color>
-    
+    <color name="button_login">#083D77</color>
 </resources>
